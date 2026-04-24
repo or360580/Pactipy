@@ -2,7 +2,9 @@ from Pactapy.solvers import solve_example
 
 def test_solve_example_empty():
     """Test that the solver handles empty input correctly."""
-    assert solve_example([]) == []
+    assert solve_example([]) == [
+        
+    ]
 
 def test_solve_example_data():
     """Test the solver with sample data."""

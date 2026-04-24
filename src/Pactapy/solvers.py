@@ -1,7 +1,7 @@
 def solve_example(input_data):
     """
-    A placeholder solver following the backtracking pattern.
-
+    veremos si hace cambio en la paguina con este comentario.
+    
     Args:
         input_data (list): The problem constraints.
 
